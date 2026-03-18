@@ -212,13 +212,16 @@ export default function PlanChooser({ onNext }) {
 
   return (
     <div className="min-h-screen bg-white py-4 ">
-      <header className="w-full h-14 border-b border-gray-500 px-4 md:px-12 flex justify-between items-center py-4 ">
-       
-        <img
-          src="/logo.svg"
-          alt="Skilltrixa"
-          className=" h-20 w-20 md:h-40 md:w-40 object-contain"
-        />
+      <header className="w-full h-14 border-b border-gray-300 px-4 md:px-12 flex justify-between items-center py-4">
+        <div className="rounded-lg bg-white border border-gray-200 px-3 py-1.5 shadow-sm">
+          <img
+            src="/logo.svg"
+            alt="Skilltrixa"
+            className="h-8 w-auto object-contain md:h-9"
+            width={180}
+            height={36}
+          />
+        </div>
 
         <button
           onClick={() => navigate("/app/signin")}

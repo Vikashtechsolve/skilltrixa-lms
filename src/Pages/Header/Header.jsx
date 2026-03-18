@@ -5,14 +5,22 @@ export default function Header() {
   const navigate = useNavigate();
 
   return (
-    <header className="w-full bg-[#0F0F0F]  h-20 flex items-center  justify-between px-3 lg:px-12">
+    <header className="w-full bg-[#0F0F0F] h-20 flex items-center justify-between px-3 lg:px-12">
       
-      {/* LOGO — Mobile pe RIGHT me shift, large screens pe LEFT */}
+      {/* LOGO */}
       <div
-        className="flex cursor-pointer ml-54 md:ml-0" 
+        className="flex cursor-pointer" 
         onClick={() => navigate("/app")}
       >
-        <img src="/logo.svg" className="w-35" alt="Skilltrixa" />
+        <div className="rounded-lg bg-white px-3 py-1.5 shadow-sm">
+          <img 
+            src="/logo.svg" 
+            alt="Skilltrixa" 
+            className="h-8 w-auto object-contain md:h-9"
+            width={180}
+            height={36}
+          />
+        </div>
       </div>
 
       {/* PROFILE BUTTON — Mobile pe HIDE, md+ pe show */}

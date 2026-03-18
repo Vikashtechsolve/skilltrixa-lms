@@ -60,10 +60,18 @@ export default function Navbar() {
     <header className="w-full bg-[#0F0F0F] h-20 flex items-center justify-between px-3 lg:px-12">
       {/* LOGO */}
       <div
-        className="flex  cursor-pointer"
+        className="flex cursor-pointer"
         onClick={handleLogoClick}
       >
-        <img src="/logo.svg" className="w-35" alt="Skilltrixa" />
+        <div className="rounded-lg bg-white px-3 py-1.5 shadow-sm">
+          <img 
+            src="/logo.svg" 
+            alt="Skilltrixa" 
+            className="h-8 w-auto object-contain md:h-9"
+            width={180}
+            height={36}
+          />
+        </div>
       </div>
 
       {/* CENTER MENU */}
