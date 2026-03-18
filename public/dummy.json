@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "DSA Mastery",
+    "category": "Interview",
+    "thumbnail": "/Lms1.png",
+    "year": "2025",
+    "modules": "6 Modules",
+    "description": "Step into AI with beginner-friendly ML concepts. Explore datasets, train models, and understand algorithms using Python."
+  },
+  {
+    "id": 2,
+    "title": "Java Programming Essentials",
+    "category": "Programming",
+    "thumbnail": "/lms2.jpg",
+    "year": "2025",
+    "modules": "5 Modules",
+    "description": "Master Java from the ground up — syntax, OOP concepts, and foundational backend skills."
+  },
+  {
+    "id": 3,
+    "title": "React Frontend Development",
+    "category": "Frontend",
+    "thumbnail": "/lms3.jpg",
+    "year": "2025",
+    "modules": "6 Modules",
+    "description": "Create stunning, dynamic web apps with React. Learn components, hooks, and real-world project buildouts."
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Essentials",
+    "category": "Security",
+    "thumbnail": "/lms4.jpg",
+    "year": "2025",
+    "modules": "5 Modules",
+    "description": "Understand ethical hacking, network security, and digital privacy fundamentals."
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Basics",
+    "category": "ML",
+    "thumbnail": "/lms5.jpg",
+    "year": "2025",
+    "modules": "4 Modules",
+    "description": "Beginner-friendly ML concepts: datasets, training models, and building simple pipelines."
+  }, {
+    "id": 6,
+    "title": "Cybersecurity Essentials",
+    "category": "Security",
+    "thumbnail": "/lms4.jpg",
+    "year": "2025",
+    "modules": "5 Modules",
+    "description": "Understand ethical hacking, network security, and digital privacy fundamentals."
+  }
+]

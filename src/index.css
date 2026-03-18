@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+/* Ensure black background throughout */
+body, html {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  background-color: #000000;
+}
+
+/* hide native scrollbar for horizontal scroller */
+.tc-scroller::-webkit-scrollbar {
+  display: none;
+}
+.tc-scroller {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* optional: subtle card hover scale */
+.tc-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  transition: transform 220ms ease;
+}
+
+/* Netflix-style shimmer animation for skeleton loaders */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite;
+}

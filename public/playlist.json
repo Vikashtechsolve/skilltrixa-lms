@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/Lms1.png"
+  },
+
+   {
+    "id": 2,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/lms2.jpg"
+  },
+
+   {
+    "id": 3,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/lms3.jpg"
+  },
+
+   {
+    "id": 4,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/lms4.jpg"
+  },
+   {
+    "id": 3,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/lms3.jpg"
+  }, {
+    "id": 3,
+    "title": "DSA Mastery",
+    "Intro": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "thumbnail": "/lms3.jpg"
+  }
+]

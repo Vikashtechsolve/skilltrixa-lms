@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Master Class : technical interviews",
+    "thumbnail": "/pic1.jpg",
+    "duration": "50m",
+    "category": "Interview Preparation",
+    "description": "TLearn how to approach coding interviews with strategy and confidence. Get tips from industry experts on solving real interview problems.",
+    "instructor": "Pankaj Kumar",
+    "status": "Upcoming",
+    "badge": "Upcoming Master Class",
+    "startAt": "2025-12-05T18:30:00+05:30",
+    "registrationOpen": true,
+    "notes": "Cracking Technical Interviews — Masterclass Notes",
+    "whatThisSessionCovers": [
+      "The structure of technical interviews (Rounds, Patterns & Expectations)",
+      "How to approach DSA problems step-by-step",
+      "Common coding question patterns used in top companies",
+      "How to explain your thought process clearly during interviews",
+      "Tips to write clean and optimized code",
+      "Behavioral interview guidance: HR + cultural fit questions",
+      "Red flags to avoid during interviews"
+    ],
+    "keyTakeaways": [
+      "Learn the mindset interviewers look for",
+      "Understand how to break down complex problems",
+      "Practice techniques to handle pressure during live coding",
+      "Build confidence in presenting your solutions",
+      "Improve your communication while explaining your logic"
+    ],
+    "whyMatters": "Technical interviews are not only about solving problems—they are about how you think, how you communicate, and how efficiently you approach solutions."
+  },
+  {
+    "id": 2,
+    "title": "Master Class : Advanced Java Concepts",
+    "thumbnail": "/pic2.jpg",
+    "duration": "1h 1m",
+    "category": "Java Programming",
+    "description": "Go beyond the basics — explore multi-threading, collections, and frameworks that make Java enterprise-ready..",
+    "instructor": "Pankaj Kumar",
+    "status": "Live",
+    "badge": "Live Now",
+    "startAt": "2025-11-26T14:00:00+05:30",
+    "joinUrl": "https://example.com/join/2",
+    "notes": "Advanced Java Concepts notes (summary)",
+    "whatThisSessionCovers": [
+      "Classloading & memory model",
+      "Concurrency primitives and common pitfalls",
+      "Performance tuning & profiling",
+      "Design patterns with real examples"
+    ],
+    "keyTakeaways": [
+      "Understand Java internals",
+      "Fix common concurrency issues",
+      "Profile and tune apps"
+    ],
+    "whyMatters": "A strong knowledge of Java internals helps build reliable and high-performance systems."
+  },
+  {
+    "id": 3,
+    "title": "Master Class : React for Professionals",
+    "thumbnail": "/pic3.png",
+    "duration": "1h 50m",
+    "category": "React",
+    "description": "Build scalable, high-performance web apps with advanced React techniques, hooks, and state management tools.",
+    "instructor": "Pankaj Kumar",
+    "status": "Recorded",
+    "badge": "Recorded",
+    "recordingUrl": "https://cdn.example.com/recordings/react-professionals.mp4",
+    "modules": 6,
+    "year": 2025,
+    "notes": "React production-ready patterns and anti-patterns",
+    "whatThisSessionCovers": [
+      "Hooks design patterns",
+      "Performance optimization",
+      "State management strategies",
+      "Testing & deployment"
+    ],
+    "keyTakeaways": [
+      "Write maintainable production code",
+      "Keep apps fast and testable"
+    ],
+    "whyMatters": "Modern React apps require architecture that scales across teams and features."
+  },
+  {
+    "id": 4,
+    "title": "Master Class : DSA Problem Solving",
+    "thumbnail": "/pic4.png",
+    "duration": "1h 4m",
+    "category": "Data Structures & Algorithms",
+    "description": "Master the art of breaking complex problems into simple solutions using effective data structures and algorithms.",
+    "instructor": "Pankaj Kumar",
+    "status": "Upcoming",
+    "badge": "Upcoming Master Class",
+    "startAt": "2025-12-12T16:00:00+05:30",
+    "notes": "DSA technique checklist",
+    "whatThisSessionCovers": [
+      "Core DSA patterns",
+      "Approach templates for common problems",
+      "Mock questions with walkthroughs"
+    ],
+    "keyTakeaways": [
+      "Pattern recognition",
+      "Time/space trade-offs",
+      "Mock problem practice plan"
+    ],
+    "whyMatters": "DSA is fundamental for algorithmic thinking required in interviews and product-level problems."
+  },
+  {
+    "id": 5,
+    "title": "Master Class : UI/UX Design Thinking",
+    "thumbnail": "/pic5.png",
+    "duration": "1h 4m",
+    "category": "UI/UX Design",
+    "description": "Understand how great digital experiences are created. Learn research, wireframing, and prototyping like a professional designer.",
+    "instructor": "Pankaj Kumar",
+    "status": "Recorded",
+    "badge": "Recorded",
+    "recordingUrl": "https://cdn.example.com/recordings/ui-ux-design.mp4",
+    "modules": 4,
+    "year": 2024,
+    "notes": "Design thinking notes and exercises",
+    "whatThisSessionCovers": [
+      "User research basics",
+      "Prototyping and feedback loops",
+      "Design systems overview"
+    ],
+    "keyTakeaways": [
+      "Apply design thinking in real products",
+      "Iterate fast with user feedback"
+    ],
+    "whyMatters": "Good product design creates delightful and usable products that users love."
+  }
+]

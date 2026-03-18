@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1",
+    "title": "New React 19 Features Announced",
+    "description": "The React team has unveiled the latest features coming in version 19, including the new Compiler and enhanced Server Actions.",
+    "author": "Tech Team",
+    "date": "2025-11-25T10:00:00Z",
+    "image": "/newsPic1.png",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>The React team has officially unveiled the features for React 19, marking a significant shift in how we build frontend applications. The focus this time is on performance, developer experience, and seamless server-side integration.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>The React Compiler</h3><p class='mb-6 text-[#E0E0E0]'>Perhaps the most anticipated feature is the new automatic React Compiler. No more manual memoization using <code>useMemo</code> or <code>useCallback</code>. The compiler automatically optimizes your code, ensuring that components only re-render when absolutely necessary.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Server Actions</h3><p class='mb-6 text-[#E0E0E0]'>React 19 doubles down on Server Actions, allowing developers to call server-side functions directly from client components. This streamlines data mutation and reduces the need for separate API endpoints for simple tasks.</p><p class='text-[#E0E0E0]'>These updates are currently available in the Canary channel and will be rolling out to the stable release soon.</p>",
+    "comments": [
+      {
+        "id": "nc1",
+        "author": "Frontend Fan",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+        "text": "I've been waiting for the compiler! No more useMemo everywhere?",
+        "date": "2025-11-25T11:30:00Z"
+      },
+      {
+        "id": "nc2",
+        "author": "Dev Lead",
+        "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=150&q=80",
+        "text": "Server Actions are going to simplify our codebase significantly.",
+        "date": "2025-11-25T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Skilltrixa Hackathon Registration Open",
+    "description": "Join us for the annual Skilltrixa Code-a-thon! Register now to compete for prizes and showcase your skills.",
+    "author": "Events Team",
+    "date": "2025-11-24T14:30:00Z",
+    "image": "/newsPic2.png",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>We are thrilled to announce that registration for the Annual Skilltrixa Code-a-thon is now open! This is your chance to collaborate with fellow developers, solve real-world problems, and win amazing prizes.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Event Details</h3><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li><strong>Date:</strong> December 15-17, 2025</li><li><strong>Mode:</strong> Hybrid (Online & Offline Campus)</li><li><strong>Team Size:</strong> 2-4 Members</li></ul><h3 class='text-xl font-bold text-white mt-8 mb-4'>Prizes</h3><p class='mb-6 text-[#E0E0E0]'>The winning team will receive a grand cash prize of $5,000, along with internship opportunities at top tech firms. There are also category prizes for 'Best UI/UX', 'Most Innovative Solution', and 'Best Use of AI'.</p><p class='text-[#E0E0E0]'>Slots are filling up fast! Head over to the events page to register your team today.</p>",
+    "comments": []
+  },
+  {
+    "id": "3",
+    "title": "Platform Maintenance Update",
+    "description": "We will be performing scheduled maintenance on the learning portal this Sunday from 2 AM to 4 AM.",
+    "author": "Support",
+    "date": "2025-11-20T09:00:00Z",
+    "image": "/newsPic3.png",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>To ensure the best possible experience for our learners, we will be performing scheduled maintenance on the Skilltrixa Learning Portal.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Maintenance Schedule</h3><p class='mb-6 text-[#E0E0E0]'><strong>Date:</strong> Sunday, November 30, 2025<br><strong>Time:</strong> 02:00 AM - 04:00 AM (EST)</p><p class='mb-6 text-[#E0E0E0]'>During this window, the platform will be temporarily unavailable. This maintenance includes:</p><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li>Database optimization for faster load times.</li><li>Security patch updates.</li><li>Deployment of new community features.</li></ul><p class='text-[#E0E0E0]'>We apologize for any inconvenience this may cause and appreciate your patience.</p>",
+    "comments": []
+  },
+  {
+    "id": "4",
+    "title": "Platform Maintenance Update",
+    "description": "We will be performing scheduled maintenance on the learning portal this Sunday from 2 AM to 4 AM.",
+    "author": "Support",
+    "date": "2025-11-20T09:00:00Z",
+    "image": "/newsPic4.png",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>To ensure the best possible experience for our learners, we will be performing scheduled maintenance on the Skilltrixa Learning Portal.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Maintenance Schedule</h3><p class='mb-6 text-[#E0E0E0]'><strong>Date:</strong> Sunday, November 30, 2025<br><strong>Time:</strong> 02:00 AM - 04:00 AM (EST)</p><p class='mb-6 text-[#E0E0E0]'>During this window, the platform will be temporarily unavailable. This maintenance includes:</p><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li>Database optimization for faster load times.</li><li>Security patch updates.</li><li>Deployment of new community features.</li></ul><p class='text-[#E0E0E0]'>We apologize for any inconvenience this may cause and appreciate your patience.</p>",
+    "comments": []
+  },
+  {
+    "id": "5",
+    "title": "Platform Maintenance Update",
+    "description": "We will be performing scheduled maintenance on the learning portal this Sunday from 2 AM to 4 AM.",
+    "author": "Support",
+    "date": "2025-11-20T09:00:00Z",
+    "image": "/newsPic5.jpg",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>To ensure the best possible experience for our learners, we will be performing scheduled maintenance on the Skilltrixa Learning Portal.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Maintenance Schedule</h3><p class='mb-6 text-[#E0E0E0]'><strong>Date:</strong> Sunday, November 30, 2025<br><strong>Time:</strong> 02:00 AM - 04:00 AM (EST)</p><p class='mb-6 text-[#E0E0E0]'>During this window, the platform will be temporarily unavailable. This maintenance includes:</p><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li>Database optimization for faster load times.</li><li>Security patch updates.</li><li>Deployment of new community features.</li></ul><p class='text-[#E0E0E0]'>We apologize for any inconvenience this may cause and appreciate your patience.</p>",
+    "comments": []
+  },
+  {
+    "id": "6",
+    "title": "Platform Maintenance Update",
+    "description": "We will be performing scheduled maintenance on the learning portal this Sunday from 2 AM to 4 AM.",
+    "author": "Support",
+    "date": "2025-11-20T09:00:00Z",
+    "image": "/newsPic4.png",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>To ensure the best possible experience for our learners, we will be performing scheduled maintenance on the Skilltrixa Learning Portal.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Maintenance Schedule</h3><p class='mb-6 text-[#E0E0E0]'><strong>Date:</strong> Sunday, November 30, 2025<br><strong>Time:</strong> 02:00 AM - 04:00 AM (EST)</p><p class='mb-6 text-[#E0E0E0]'>During this window, the platform will be temporarily unavailable. This maintenance includes:</p><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li>Database optimization for faster load times.</li><li>Security patch updates.</li><li>Deployment of new community features.</li></ul><p class='text-[#E0E0E0]'>We apologize for any inconvenience this may cause and appreciate your patience.</p>",
+    "comments": []
+  },
+  {
+    "id": "7",
+    "title": "Platform Maintenance Update",
+    "description": "We will be performing scheduled maintenance on the learning portal this Sunday from 2 AM to 4 AM.",
+    "author": "Support",
+    "date": "2025-11-20T09:00:00Z",
+    "image": "/newsPic5.jpg",
+    "content": "<p class='mb-6 text-[#E0E0E0]'>To ensure the best possible experience for our learners, we will be performing scheduled maintenance on the Skilltrixa Learning Portal.</p><h3 class='text-xl font-bold text-white mt-8 mb-4'>Maintenance Schedule</h3><p class='mb-6 text-[#E0E0E0]'><strong>Date:</strong> Sunday, November 30, 2025<br><strong>Time:</strong> 02:00 AM - 04:00 AM (EST)</p><p class='mb-6 text-[#E0E0E0]'>During this window, the platform will be temporarily unavailable. This maintenance includes:</p><ul class='list-disc pl-5 space-y-2 mb-6 text-[#E0E0E0]'><li>Database optimization for faster load times.</li><li>Security patch updates.</li><li>Deployment of new community features.</li></ul><p class='text-[#E0E0E0]'>We apologize for any inconvenience this may cause and appreciate your patience.</p>",
+    "comments": []
+  }
+]
+  

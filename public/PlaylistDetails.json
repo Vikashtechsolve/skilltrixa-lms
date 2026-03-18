@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "DSA Mastery",
+    "category": "Programming",
+    "thumbnail": "/images/dsa-thumb.jpg",
+    "videoUrl": "https://www.youtube.com/embed/zOjov-2OZ0E",
+    "description": "Unlock the power of data with our comprehensive DSA Mastery playlist. From data collection to visualization, learn how to organize, analyze, and interpret complex datasets with real-world examples. Master tools like Excel, SQL, and Python to make data-driven decisions with confidence.",
+    "released": "10 November, 2025",
+    "free": true
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Bootcamp",
+    "category": "AI & Data",
+    "thumbnail": "/images/ml-thumb.jpg",
+    "videoUrl": "https://www.youtube.com/embed/GwIo3gDZCVQ",
+    "description": "Complete ML Bootcamp from basics.",
+    "released": "12 November, 2025",
+    "free": false
+  },
+  {
+    "id": 3,
+    "title": "Machine Learning Bootcamp",
+    "category": "AI & Data",
+    "thumbnail": "/images/ml-thumb.jpg",
+    "videoUrl": "https://www.youtube.com/embed/GwIo3gDZCVQ",
+    "description": "Complete ML Bootcamp from basics.",
+    "released": "12 November, 2025",
+    "free": false
+  }
+]

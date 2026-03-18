@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "img": "/certs/cert1.png",
+    "pdf": "/certs/cert1.pdf",
+    "viewUrl": "/certs/cert1.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Advanced JavaScript",
+    "img": "/certs/cert2.png",
+    "pdf": "/certs/cert2.pdf",
+    "viewUrl": "/certs/cert2.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Project",
+    "img": "/certs/cert3.png",
+    "pdf": "/certs/cert3.pdf",
+    "viewUrl": "/certs/cert3.pdf"
+  }
+]
